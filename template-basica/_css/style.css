@@ -43,6 +43,11 @@ article{
     height: 200px;
     background-color: steelblue;
     margin-bottom: 3px;
+    transition: 0.5s;
+}
+article:hover{
+    opacity: 0.5;
+    transition: 0.5s;
 }
 
 .texto{
