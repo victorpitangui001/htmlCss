@@ -1,2 +1,2 @@
 # htmlCss
-Projetos feitos com Html e Css
+Projetos desenvolvidos com Html e Css
