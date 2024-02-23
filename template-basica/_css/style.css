@@ -62,3 +62,37 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+
+/* Tablet*/
+@media only screen and (max-width:768px){
+    .container{
+        width: 85%;
+    }
+
+    .menu{
+        display: none;
+    }
+
+    #menu-rodape{
+        display: none;
+    }
+
+    article{
+        width: 49%;
+    }
+
+}
+
+@media only screen and (max-width:500px){
+    .container{
+        width: 95%;
+    }
+
+    .artigos{
+        flex-direction: column;
+    }
+
+    article{
+        width: 100%;
+    }
+}
